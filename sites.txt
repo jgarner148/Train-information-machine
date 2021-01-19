@@ -1,0 +1,3 @@
+https://www.realtimetrains.co.uk/about/developer/pull/docs/locationlist/
+https://www.dataquest.io/blog/python-api-tutorial/
+https://requests.readthedocs.io/en/master/user/authentication/
